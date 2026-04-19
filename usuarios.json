@@ -1,0 +1,20 @@
+[
+  {
+    "id_tarjeta": "777",
+    "nombre_empleado": "Jahaziel Fraire",
+    "departamento": "Produccion",
+    "nivel_seguridad": 1
+  },
+  {
+    "id_tarjeta": "123",
+    "nombre_empleado": "Jesus Arreola",
+    "departamento": "Admin",
+    "nivel_seguridad": 2
+  },
+    {
+    "id_tarjeta": "456",
+    "nombre_empleado": "Adonai Molina",
+    "departamento": "Admin",
+    "nivel_seguridad": 3
+  }
+]
